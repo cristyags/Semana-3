@@ -22,27 +22,21 @@ h1{
     width: 100%;
     padding: 2% 0px;
     background-color: #464d52;
-    margin: 2% 0px;
-    height: auto;
-    float: left;
 }
     
 #encabezado{
-    margin: 2% 0px;
+    margin: 0px auto;
     width: 80%;
     min-width: 650px;
     max-width: 960px;
-    height: auto;
-    float: left;
-}  
+}
 #logo{
     margin: 2% 0px;
     height: auto;
 }
 
-#imgDesc img {
-    float: left; 
-    overflow:hidden;
+#imgDesc img{
+    float: left;
 }
 #imgDesc{
     overflow:hidden;
